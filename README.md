@@ -1,4 +1,4 @@
-# SIGHT Project
+# SIGHT - Systematic Imaging for Ground Human Tracking
 
 ## Overview
 
